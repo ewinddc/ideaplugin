@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ewinddc.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ewinddc.ideaplugin.MyBundle
 
 class MyApplicationService {
 
